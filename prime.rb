@@ -8,10 +8,10 @@ def prime?(int)
   
   while counter <= int
     if int%counter == 0
-      return true
+      return false
     else
       counter += 1
     end
   end
-  return false
+  return true
 end
