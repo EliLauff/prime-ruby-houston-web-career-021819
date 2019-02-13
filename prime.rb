@@ -6,7 +6,7 @@ def prime?(int)
     return true
   end
   
-  while counter <= int
+  while counter < int
     if int%counter == 0
       return false
     else
