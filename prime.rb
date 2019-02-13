@@ -1,4 +1,4 @@
 # Add  code here!
 def prime?(int)
-  counter = 1
+  counter = 2
 end
